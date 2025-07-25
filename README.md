@@ -1,2 +1,2 @@
-#React chat app with nodejs
-## to run u need axios and nodemon
+##React chat app with nodejs
+# to run u need axios and nodemon
